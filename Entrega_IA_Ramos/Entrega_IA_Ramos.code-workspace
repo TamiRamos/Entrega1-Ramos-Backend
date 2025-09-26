@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{"path": "."},                      // carpeta principal del proyecto actual
+		{"path": "../JS.EntegaFinal_Ramos"}, // proyecto JS externo
+		{"path": "../TP_3_ACYP"}             // otro proyecto externo
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS.EntegaFinal_Ramos" // nombre para Live Server
+	}
+}
